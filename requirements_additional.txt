@@ -3,3 +3,4 @@ mediapipe>=0.8.7.3
 dlib>=19.20.0
 ultralytics>=8.0.122
 facenet-pytorch>=2.5.3
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
