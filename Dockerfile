@@ -1,5 +1,5 @@
 # base image
-FROM python:3.8.12
+FROM python:3.12.5
 LABEL org.opencontainers.image.source https://github.com/serengil/deepface
 
 # -----------------------------------
