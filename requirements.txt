@@ -11,3 +11,5 @@ mtcnn>=0.1.0
 retina-face>=0.0.1
 fire>=0.4.0
 gunicorn>=20.1.0
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
